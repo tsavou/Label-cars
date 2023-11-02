@@ -1,0 +1,159 @@
+[{
+  "_id": {
+    "$oid": "6531430db642100ed555a5e4"
+  },
+  "id": "MER-CLC",
+  "name": "Mercedes-Benz Classe C",
+  "options": {
+    "aircondition": true,
+    "navigation": true,
+    "transmission": "automatique",
+    "person": 5
+  },
+  "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/mb-c-klasse-4d-grau-2020.png",
+  "price": 199,
+  "reservations": 3
+},
+{
+  "_id": {
+    "$oid": "6531430db642100ed555a5e5"
+  },
+  "id": "BMW-X1",
+  "name": "BMW X1",
+  "options": {
+    "aircondition": true,
+    "navigation": true,
+    "transmission": "automatique",
+    "person": 5
+  },
+  "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/bmw-x1-5d-weiss-2019.png",
+  "price": 179,
+  "reservations": 7
+},
+{
+  "_id": {
+    "$oid": "6531430db642100ed555a5e6"
+  },
+  "id": "AUD-A1-SB",
+  "name": "Audi A1 Sportback",
+  "options": {
+    "aircondition": true,
+    "navigation": true,
+    "transmission": "manuel",
+    "person": 4
+  },
+  "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/audi-a1-sportback-gelb-2019.png",
+  "price": 129,
+  "reservations": 5
+},
+{
+  "_id": {
+    "$oid": "6531430db642100ed555a5e7"
+  },
+  "id": "VW-TROC",
+  "name": "VW T-Roc",
+  "options": {
+    "aircondition": true,
+    "navigation": true,
+    "transmission": "manuel",
+    "person": 5
+  },
+  "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/vw-t-roc-suv-schwarz-2019.png",
+  "price": 139,
+  "reservations": 30
+},
+{
+  "_id": {
+    "$oid": "6531430db642100ed555a5e8"
+  },
+  "id": "AUD-Q3",
+  "name": "Audi Q3",
+  "options": {
+    "aircondition": true,
+    "navigation": true,
+    "transmission": "automatique",
+    "person": 5
+  },
+  "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/audi-q3-5d-silber-2019.png",
+  "price": 189,
+  "reservations": 10
+},
+{
+  "_id": {
+    "$oid": "6531430db642100ed555a5e9"
+  },
+  "id": "MER-CLV",
+  "name": "Mercedes Classe V",
+  "options": {
+    "aircondition": true,
+    "navigation": true,
+    "transmission": "automatique",
+    "person": 8
+  },
+  "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/mb-v-klasse-van-grau-2014.png",
+  "price": 249,
+  "reservations": 15
+},
+{
+  "_id": {
+    "$oid": "6531430db642100ed555a5eb"
+  },
+  "id": "REN-5",
+  "name": "Renault 5 Turbo",
+  "options": {
+    "aircondition": false,
+    "navigation": false,
+    "transmission": "manuel",
+    "person": 4
+  },
+  "image": "https://vignette.wikia.nocookie.net/forzamotorsport/images/c/c0/HOR_XB1_Renault_5.png/revision/latest?cb=20191101135352",
+  "price": 199,
+  "reservations": 0
+},
+{
+  "_id": {
+    "$oid": "6531a1414060da802ca13492"
+  },
+  "id": "MER-fLC",
+  "name": "Mercedes-Benz Classe C",
+  "options": {
+    "aircondition": true,
+    "navigation": true,
+    "transmission": "automatique",
+    "person": 5
+  },
+  "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/mb-c-klasse-4d-grau-2020.png",
+  "price": 199,
+  "reservations": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65367b43c4722b37008b8e7b"
+  },
+  "id": "POR-PAN",
+  "name": "Porsche Panamera",
+  "options": {
+    "aircondition": true,
+    "navigation": true,
+    "transmission": "automatique"
+  },
+  "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/porsche-panamera-4-e-hybrid-4d-silber-2019.png",
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6541351666ee47c96d61c639"
+  },
+  "id": "MAS-G",
+  "name": "Maserati Ghibli",
+  "options": {
+    "aircondition": true,
+    "navigation": true,
+    "transmission": "automatique"
+  },
+  "image": "https://sx-content-labs.sixt.io/Media/8fleet-1050x600/maserati-ghibli-4d-grau-2018.png",
+  "price": 750,
+  "__v": 0
+}]

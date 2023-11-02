@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%
+}
+
+body {
+margin: 0;
+padding: 0;
+}
+
+.container {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto; 
+}
+
+.flex {
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+}
+
+/* Styles de base pour un en-tête */
+header {
+  color: #fff;
+  padding: 1rem;
+  background-color: #2d4f6c;
+  font-size: 1.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+header .logo{
+  width: 40px;
+  height: auto;
+}
+
+.back{
+  cursor: pointer;
+}
+
+
+/* Styles pour les liens */
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+h2{
+  font-size: 2rem;
+  text-align: center;
+}
+
+
